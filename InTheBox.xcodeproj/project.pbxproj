@@ -36686,7 +36686,7 @@
 					"_LIB_VERSION_TYPE=\\\"const\\ enum\\ _IEEE_\\\"",
 					__LITTLE_ENDIAN,
 				);
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/InTheBoxSim/include/";
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
@@ -36707,7 +36707,7 @@
 					"_LIB_VERSION_TYPE=\\\"const\\ enum\\ _IEEE_\\\"",
 					__LITTLE_ENDIAN,
 				);
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/InTheBoxSim/include/";
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
@@ -36729,7 +36729,7 @@
 					DEBUG,
 					HAVE_EXPAT_CONFIG_H,
 				);
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/InTheBoxSim/include/",
 					"$(PROJECT_DIR)/InTheBoxSim/expat/",
@@ -36751,7 +36751,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "InTheBoxSim/InTheBoxSim-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = HAVE_EXPAT_CONFIG_H;
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/InTheBoxSim/include/",
 					"$(PROJECT_DIR)/InTheBoxSim/expat/",
@@ -36771,7 +36771,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = "";
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				HEADER_SEARCH_PATHS = "";
@@ -36789,7 +36789,7 @@
 				GCC_C_LANGUAGE_STANDARD = "compiler-default";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = "";
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				HEADER_SEARCH_PATHS = "";
@@ -36810,7 +36810,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "InTheBoxSim/InTheBoxSim-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/InTheBoxSim/include/";
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
@@ -36827,7 +36827,7 @@
 				GCC_INCREASE_PRECOMPILED_HEADER_SHARING = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "InTheBoxSim/InTheBoxSim-Prefix.pch";
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/InTheBoxSim/include/";
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
@@ -36851,7 +36851,7 @@
 					ANDROID,
 				);
 				GCC_THUMB_SUPPORT = NO;
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/InTheBoxSim/include/";
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
@@ -36874,7 +36874,7 @@
 					ANDROID,
 				);
 				GCC_THUMB_SUPPORT = NO;
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/InTheBoxSim/include/";
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
@@ -36892,7 +36892,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "InTheBoxSim/InTheBoxSim-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/InTheBoxSim/include/",
 					"$(PROJECT_DIR)/InTheBoxSim/",
@@ -36914,7 +36914,7 @@
 				GCC_INCREASE_PRECOMPILED_HEADER_SHARING = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "InTheBoxSim/InTheBoxSim-Prefix.pch";
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/InTheBoxSim/include/",
 					"$(PROJECT_DIR)/InTheBoxSim/",
@@ -36936,7 +36936,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "InTheBoxSim/InTheBoxSim-Prefix.pch";
 				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/InTheBoxSim/include/";
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
@@ -36952,7 +36952,7 @@
 				GCC_C_LANGUAGE_STANDARD = "compiler-default";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "InTheBoxSim/InTheBoxSim-Prefix.pch";
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/InTheBoxSim/include/";
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
@@ -36973,7 +36973,7 @@
 					MACOSX,
 					USE_LL,
 				);
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/InTheBoxSim/include/",
 					"$(PROJECT_DIR)/InTheBoxSim/include/nativehelper/",
@@ -37001,7 +37001,7 @@
 					MACOSX,
 					USE_LL,
 				);
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/InTheBoxSim/include/",
 					"$(PROJECT_DIR)/InTheBoxSim/include/nativehelper/",
@@ -37033,7 +37033,7 @@
 					U_COMMON_IMPLEMENTATION,
 					PIC,
 				);
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/InTheBoxSim/include/",
 					"$(PROJECT_DIR)/InTheBoxSim/icu4c/i18n/",
@@ -37061,7 +37061,7 @@
 					U_COMMON_IMPLEMENTATION,
 					PIC,
 				);
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/InTheBoxSim/include/",
 					"$(PROJECT_DIR)/InTheBoxSim/icu4c/i18n/",
@@ -37090,7 +37090,7 @@
 					U_I18N_IMPLEMENTATION,
 					ANDROID,
 				);
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/InTheBoxSim/include/",
 					"$(PROJECT_DIR)/InTheBoxSim/icu4c/common/",
@@ -37117,7 +37117,7 @@
 					U_I18N_IMPLEMENTATION,
 					ANDROID,
 				);
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/InTheBoxSim/include/",
 					"$(PROJECT_DIR)/InTheBoxSim/icu4c/common/",
@@ -37164,7 +37164,7 @@
 					OPENSSL_NO_ENGINE,
 					ZLIB,
 				);
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/InTheBoxSim/include/",
 					"$(PROJECT_DIR)/InTheBoxSim/openssl/include/",
@@ -37211,7 +37211,7 @@
 					OPENSSL_NO_ENGINE,
 					ZLIB,
 				);
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/InTheBoxSim/include/",
 					"$(PROJECT_DIR)/InTheBoxSim/openssl/include/",
@@ -37259,7 +37259,7 @@
 					OPENSSL_NO_ENGINE,
 					ZLIB,
 				);
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/InTheBoxSim/include/",
 					"$(PROJECT_DIR)/InTheBoxSim/openssl/include/",
@@ -37306,7 +37306,7 @@
 					OPENSSL_NO_ENGINE,
 					ZLIB,
 				);
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/InTheBoxSim/include/",
 					"$(PROJECT_DIR)/InTheBoxSim/openssl/include/",
@@ -37338,7 +37338,7 @@
 					VERY_VERBOSE_LOG,
 				);
 				GCC_THUMB_SUPPORT = YES;
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/InTheBoxSim/include/",
 					"$(PROJECT_DIR)/InTheBoxSim/vm/",
@@ -37351,6 +37351,8 @@
 					"\"$(SRCROOT)/InTheBoxSim\"",
 					"\"$(SDKROOT)/usr/lib/system\"",
 				);
+				MACOSX_DEPLOYMENT_TARGET = "";
+				ONLY_ACTIVE_ARCH = YES;
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "-lstdc++";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -37375,7 +37377,7 @@
 					"ANDROID_SMP=0",
 				);
 				GCC_THUMB_SUPPORT = YES;
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/InTheBoxSim/include/",
 					"$(PROJECT_DIR)/InTheBoxSim/vm/",
@@ -37388,6 +37390,7 @@
 					"\"$(SRCROOT)/InTheBoxSim\"",
 					"\"$(SDKROOT)/usr/lib/system\"",
 				);
+				MACOSX_DEPLOYMENT_TARGET = "";
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				OTHER_LDFLAGS = "-lstdc++";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -37466,7 +37469,7 @@
 					DVM_NO_ASM_INTERP,
 					"ANDROID_SMP=0",
 				);
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/InTheBoxSim/include/",
 					"$(PROJECT_DIR)/InTheBoxSim/vm/",
@@ -37502,7 +37505,7 @@
 					DVM_NO_ASM_INTERP,
 					"ANDROID_SMP=0",
 				);
-				GCC_VERSION = 4.2;
+				GCC_VERSION = "";
 				HEADER_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/InTheBoxSim/include/",
 					"$(PROJECT_DIR)/InTheBoxSim/vm/",
